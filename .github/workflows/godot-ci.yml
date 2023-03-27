@@ -5,7 +5,7 @@ on:
       - 'v*'
 
 env:
-  GAME_NAME: godot-auto-deploy-github
+  GAME_NAME: github-godot-auto-deploy
 
 jobs:
   export-game:
